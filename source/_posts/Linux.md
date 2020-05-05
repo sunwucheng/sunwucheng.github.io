@@ -159,58 +159,70 @@ man命令: `man man`查看man命令自身的帮助信息
 
 ## 2.3 常用系统工作命令
 
-echo
-date
-reboot
-poweroff
-wget
-ps
-top
-pidof
-kill
-killall
+|          |          |
+| :------: | :------: |
+| echo     |  |
+| date     |  |
+| reboot   |  |
+| poweroff |  |
+| wget     |  |
+| ps       |  |
+| top      |  |
+| pidof    |  |
+| kill     |  |
+| killall  |  |
 
 ## 2.4 系统状态检测命令
 
-ifconfig
-uname
-uptime
-free
-who
-last
-history
-sosreport
+|           |          |
+| :-------: | :------: |
+| ifconfig  | 用于获取网卡配置与网络状态等信息，格式为`ifconfig [网络设备] [参数]` |
+| uname     | 查看系统内核与系统版本等信息，格式为`uname [-a]` |
+| uptime    |   |
+| free      |   |
+| who       |   |
+| last      |   |
+| history   |   |
+| sosreport |   |
 
 ## 2.5 工作目录切换命令
 
-pwd
-cd
-ls
+|      |      |
+| :--: | :--: |
+| pwd  |  |
+| cd   |  |
+| ls   |  |
 
 ## 2.6 文本文件编辑命令
 
-cat
-more
-head
-tail
-tr
-wc
-stat
-cut
-diff
+|      |      |
+| :--: | :--: |
+| cat  |  |
+| more |  |
+| head |  |
+| tail |  |
+| tr   |  |
+| wc   |  |
+| stat |  |
+| cut  |  |
+| diff |  |
 
 ## 2.7 文件目录管理命令
 
-touch
-mkdir
-cp
-mv
-rm
-dd
-file
+|       |       |
+| :---: | :---: |
+| touch |  |
+| mkdir |  |
+| cp    |  |
+| mv    |  |
+| rm    |  |
+| dd    |  |
+| file  |  |
 
 ## 2.8 打包压缩与搜索命令
 
-tar
-grep
-find
+|      |      |
+| :--: | :--: |
+| tar  |  |
+| grep |  |
+| find |  |
