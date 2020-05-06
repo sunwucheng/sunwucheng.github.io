@@ -8,7 +8,8 @@ categories: CS&EE
 **来源: [Git教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/896043488029600)**
 
 ## 安装Git
-```Ubuntu
+```
+/* Ubuntu上安装 */
 $ sudo apt-get install git
 ```
 

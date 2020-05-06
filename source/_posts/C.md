@@ -207,8 +207,8 @@ int main(void)
 
 ### 3.4.A 整数类型
 
-|            type            | dec  | octal   | hex     |          |
-| :--- | :---: | :---: | :---: | :---: |
+| type  | dec   | octal | hex   |       |
+| :---: | :---: | :---: | :---: | :---: |
 | `(signed) short (int)`     | %hd  | %(#)ho  | %(#)hx  | 有符号类型 |
 | `(signed) int`             | %d   | %(#)o   | %(#)x   | 有符号类型 |
 | `(signed) long (int)`      | %ld  | %(#)lo  | %(#)lx  | 有符号类型 |
