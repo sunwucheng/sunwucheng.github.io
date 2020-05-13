@@ -38,7 +38,7 @@ categories: CS&EE
 
 ### 1.1.2 配置Java
 
-* 安装JDK
+* 下载并安装[JDK14](https://www.oracle.com/java/technologies/javase-jdk14-downloads.html)
 * 设置环境变量
   + 设置一个JAVA_HOME的环境变量，它指向JDK的安装目录
 	```
