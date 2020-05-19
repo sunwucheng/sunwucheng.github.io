@@ -12,7 +12,7 @@ categories: CS&EE
 
 ## 0.3 开源共享精神
 
-![](http://www.ruanyifeng.com/blogimg/asset/201105/free_software_licenses.png)
+![](/202004291234-0.1-free_software_licenses.png)
 
 * GNU GPL (GNU General Public License)
 * BSD (Berkeley Software Distribution)
