@@ -1,5 +1,5 @@
 ---
-title: 科研工具
+title: 科研工具/Softwares for Research
 date: 2020-04-30 17:29:27
 tags:
 categories: Specialty

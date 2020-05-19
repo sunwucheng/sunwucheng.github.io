@@ -1,5 +1,5 @@
 ---
-title: 小说遗迹
+title: 小说遗迹/Fiction Vestige
 date: 2020-04-19 15:17:38
 tags: 
 categories: THE MYTH

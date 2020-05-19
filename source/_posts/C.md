@@ -8,7 +8,7 @@ categories: CS&EE
 **来源: [C Primer Plus](https://book.douban.com/subject/26792521/)**
 
 
-# 1. 初识C语言
+# 1 初识C语言
 
 ## 1.6 语言标准
 
@@ -29,7 +29,7 @@ C编程: 源代码(by编译) -> 中间代码(by链接: + 库代码&启动代码)
 |  Linux |  GCC  | gcc XXX.c                    |
 
 
-# 2. C语言概述
+# 2 C语言概述
 
 ## 2.2 结构解释
 
@@ -126,7 +126,7 @@ void butler(void)                      /* 函数定义(function definition) */
 * **粗体** 表示C90标准新增的关键字； *斜体* 表示C99标准新增的关键字； ***粗斜体*** 表示C11标准新增的关键字
 
 
-# 3.  数据和C
+# 3  数据和C
 
 ## 3.1 示例程序
 
@@ -206,7 +206,7 @@ int main(void)
 
 ### 3.4.A 整数类型
 
-| type  | dec   | octal | hex   |       |
+| type  | printf()-dec   | printf()-octal | printf()-hex   |       |
 | :---: | :---: | :---: | :---: | :---: |
 | `(signed) short (int)`     | %hd  | %(#)ho  | %(#)hx  | 有符号类型 |
 | `(signed) int`             | %d   | %(#)o   | %(#)x   | 有符号类型 |
@@ -224,7 +224,16 @@ int main(void)
 - 声明: 为变量赋于名称并分配内存空间
 - 初始化: 为变量赋一个初始值
 - 进制表示: 通常假定整形常量为**十进制**，`0`前缀表示**八进制**，`0x`或`0X`前缀表示**十六进制**
-- 整形常量/整形字面量: `21`, `-44`, `020`, `0x64`; `7l`, `0x10L`, `8LL`; `12u`, `233UL`, `5ull`, `10LLU`, `9ULL`
+- 整形常量/整形字面量: 
+| 类型 | 十六进制 | 八进制 | 十进制 |
+| :----: |:----: |:----: |:----: |
+| char | \0x41 | \0101 | N.A. |
+| int | 0x41 | 0101 | 65 |
+| unsigned int | 0x41u | 0101u | 65u |
+| long | 0x41L | 0101L | 65L |
+| unsigned long | 0x41UL | 0101UL | 65UL |
+| long long | 0x41LL | 0101LL | 65LL |
+| unsigned long long | 0x41ULL | 0101ULL | 65ULL |
 - 整型显示: `printf()`转换说明 `%d` **十进制**显示; `%(#)o` **八进制(前缀)**显示; `%(#)x` **十六进制(前缀)**显示
 - 转换说明: printf()函数中的转换说明决定了数据的显示方式, 而不是数据的储存方式
 - 转换说明: printf()函数中转换说明的数量应与待打印值(int类型的变量/常量，值为int类型的表达式)的数量相等
@@ -319,9 +328,9 @@ int main(void)
 
 ### 3.4.B 浮点数类型  
 
-| type          | 十进制 | 指数计数法 | 十六进制格式 |         |
+| type          | printf()-十进制 | printf()-指数计数法 | printf()-十六进制 |         |
 | :---: | :---: | :---: | :---: | :---: |            
-| `float`       |   %f  |   %e      | %a/%       | 至少能表达6位有效数字 |
+| `float`       |   %f  |   %e      | %a/%A      | 至少能表达6位有效数字 |
 | `double`      |   %f  |   %e      | %a/%A      | 至少能表达10位有效数字 |
 | `long double` |   %Lf |   %Le     | %La        | 至少能表达10位有效数字 |
 
@@ -393,44 +402,96 @@ int main(void)
 * C语言没有字符串类型, 但也能很好地处理字符串
 
 
-# 4. 字符串和格式化输入/输出
+# 4 字符串和格式化输入/输出
+
+## 4.1 前导程序
+
+```
+/* talkback.c —— 演示与用户交互 */
+#include <stdio.h>
+#include <string.h>
+#define DENSITY 62.4                 //用C预处理器把字符常量DENSITY定义为62.4
+int main()
+{
+	float weight, volume;
+	int size, letters;
+	char name[40];               //用数组储存字符串
+
+	printf("Hi! What's your first name?\n");
+	scanf("%s", name);           //name没有&前缀 （使用%s转换说明来处理字符串的输入和输出）
+	printf("%s, what's your weight in pounds?\n", name);
+	scanf("%f", &weight);        //weight有&前缀
+	size = sizeof name;
+	letters = strlen(name);      //用C函数strlen()获取字符串的长度
+	volume = weight / DENSITY;
+	printf("Well, %s, your volume is %2.2f cubic feet.\n", name, volume);
+	printf("Also, your first name has %d letters,\n", letters);
+	printf("and we have %d bytes to store it.\n", size);
+
+	return 0;
+}
+```
+
+## 4.2 字符串简介
+
+数组(array): 同类型数据元素的有序序列
+字符串(character string): 一个或多个字符的序列 e.g., "I am your father!"
+双引号""不是字符串的一部分，仅用来告知编译器它扩起来的是字符串，正如单引号''标识单个字符
+C语言没有专门用于储存字符串的变量类型，字符串都被储存在char类型的数组中 e.g., `char name[40];`
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 空字符 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| I |   | a | m |   | y | o | u | r |   | f | a | t | h | e | r | ! | \0 |
+
+C语言用空字符(null character)标记字符串的结束，即字符串一定以空字符结束，占用数组最后一个储存单元
+有40个储存单元的字符串最多能储存39个字符，故字符串的数组容量必须至少比待存储字符串的字符数多1
+空字符不是数字0，而是非打印字符，其ASCII码值是(或等价于)0
 
 
-# 5. 运算符、表达式和语句
 
 
-# 6. C控制语句：循环
 
 
-# 7. C控制语句：分支和跳转
 
 
-# 8. 字符输入/输出和输入验证
 
 
-# 9. 函数
+
+# 5 运算符、表达式和语句
 
 
-# 10. 数组和指针
+# 6 C控制语句：循环
 
 
-# 11. 字符串和字符串函数
+# 7 C控制语句：分支和跳转
 
 
-# 12. 存储类别、链接和内存管理
+# 8 字符输入/输出和输入验证
 
 
-# 13. 文件输入/输出
+# 9 函数
 
 
-# 14. 结构和其他数据形式
+# 10 数组和指针
 
 
-# 15. 位操作
+# 11 字符串和字符串函数
 
 
-# 16. C预处理器和C库
+# 12 存储类别、链接和内存管理
 
 
-# 17. 高级数据表示
+# 13 文件输入/输出
+
+
+# 14 结构和其他数据形式
+
+
+# 15 位操作
+
+
+# 16 C预处理器和C库
+
+
+# 17 高级数据表示
 

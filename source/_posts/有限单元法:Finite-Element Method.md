@@ -1,5 +1,5 @@
 ---
-title: 有限单元法
+title: 有限单元法/Finite-Element Method
 date: 2020-05-13 08:38:00
 tags:
 categories: Specialty
