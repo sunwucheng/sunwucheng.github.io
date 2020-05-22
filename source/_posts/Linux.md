@@ -96,7 +96,7 @@ Linux系统启动时的初始化工作可看作一个个单元(Unit)，systemd�
 # ln -sf /lib/systemd/system/multi-user.target /etc/systemd/system/default.target
 ```
 
-| System V init命令 (RHEL6) | systemctl命令 (RHEL7) | 作用 |
+| System V init (RHEL6) | systemctl (RHEL7) | 作用 |
 | :------------------ | :-------------------------------- | :-----: |
 | service foo start	  | **systemctl start foo.service**   | 启动服务 |
 | service foo restart |	**systemctl restart foo.service** | 重启服务 |
@@ -118,7 +118,7 @@ Linux系统启动时的初始化工作可看作一个个单元(Unit)，systemd�
 
 计算机硬件通常由运算器、控制器、存储器、输入/输出设备等共同组成，系统内核让各硬件设备各司其职且协同运行
 Linux系统内核负责对硬件资源分配、调度等管理任务，建议用户基于系统调用接口开发出的程序或服务来管理计算机
-Users ⟸**Shell**⟹ Procedure & Service { System Call Interface [ Kernel ( Hardware ) ] }
+Users ⇦**Shell**⇨ Procedure & Service { System Call Interface [ Kernel ( Hardware ) ] }
 Shell(终端/壳)充当人与内核/硬件之间的翻译官，主流Linux系统默认终端为**Bash**(Bourne-Again SHell)解释器
 
 ## 2.2 执行查看帮助命令
@@ -139,8 +139,8 @@ Linux命令的格式: 命令名称 [命令参数] [命令对象]
 | PaGe up   | 向上翻一页 |
 | home      | 直接前往首页 |
 | end       | 直接前往尾页 |
-| /         | 从上至下搜索某个关键词，如“/linux” |
-| ?         | 从下至上搜索某个关键词，如“?linux” |
+| /         | 从上至下搜索某个关键词，如`/linux` |
+| ?         | 从下至上搜索某个关键词，如`?linux` |
 | n         | 定位到下一个搜索到的关键词         |
 | N         | 定位到上一个搜索到的关键词         |
 | q         | 退出帮助文档 |

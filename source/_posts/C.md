@@ -328,7 +328,7 @@ int main(void)
 
 ### 3.4.B 浮点数类型  
 
-| type          | printf()-十进制 | printf()-指数计数法 | printf()-十六进制 |         |
+| type          | printf()-dec | printf()-指数/e计数法 | printf()-hex |         |
 | :---: | :---: | :---: | :---: | :---: |            
 | `float`       |   %f  |   %e      | %a/%A      | 至少能表达6位有效数字 |
 | `double`      |   %f  |   %e      | %a/%A      | 至少能表达10位有效数字 |

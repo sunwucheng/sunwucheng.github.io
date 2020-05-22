@@ -9,6 +9,7 @@ categories: Specialty
 ## 文献管理软件
 
 * 免费且开源的[Zotero](https://www.zotero.org)
+	+ [Zotero官方文档](https://www.zotero.org/support/zh/start)
 	+ [Zotero使用教程](https://zhuanlan.zhihu.com/p/28325366) 
 	+ [Zotero文献生态](https://zhuanlan.zhihu.com/zotero)
 

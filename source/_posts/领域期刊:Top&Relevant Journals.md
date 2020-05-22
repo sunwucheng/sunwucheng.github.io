@@ -1,4 +1,4 @@
-title: 领域期刊/Relevant Journals
+title: 领域期刊/Top&Relevant Journals
 date: 2020-05-13 11:42:46
 tags: 
 categories: Specialty
@@ -6,7 +6,7 @@ categories: Specialty
 
 # 期刊总览
 
-| 级别 | IF(2016, 3年平均) | 期刊名 |
+| 级别 | 2016, 3年平均IF | 期刊名 |
 | :------: | :------: | :------ |
 | T1 | (4.075, 3.622) | Composites Part A: Applied Science and Manufacturing |
 | T1 | (3.995, 3.449) | International Journal of Machine tools and manufacture |
@@ -22,11 +22,11 @@ categories: Specialty
 | T2 | (2.903, 2.366) | Tribology International | |
 | T3 | (2.531, 2.256) | Wear |
 | T3 | (1.891, 1.796) | Tribology Letters |
-| T3 | (2.435, 2.329) | Metals* (开源期刊近今年才开始投的人多，了解一下近5年的情况就够) |
+| T3 | (2.435, 2.329) | Metals* |
 | T3 | (1.679, 1.63)  | Applied Sciences-Basel* |
 
 
-## ~[Composites Part A: Applied Science and Manufacturing](https://www.sciencedirect.com/journal/composites-part-a-applied-science-and-manufacturing)~
+### ~[Composites Part A: Applied Science and Manufacturing](https://www.sciencedirect.com/journal/composites-part-a-applied-science-and-manufacturing)~
 
 <details>
 <summary><mark>[CiteScore: 6.9; Impact Factor: 6.282]</mark> - Aims&Scope[en] (点击展开)</summary>
@@ -34,7 +34,7 @@ Composites Part A: Applied Science and Manufacturing publishes original research
 </details>
 
 
-## ~[International Journal of Machine Tools and Manufacture](https://www.sciencedirect.com/journal/international-journal-of-machine-tools-and-manufacture)~
+### ~[International Journal of Machine Tools and Manufacture](https://www.sciencedirect.com/journal/international-journal-of-machine-tools-and-manufacture)~
 
 <details>
 <summary><mark>[CiteScore: 7.76; Impact Factor: 6.039]</mark> - Aims&Scope[en] (点击展开)</summary>
@@ -53,7 +53,7 @@ The above list is not exhaustive and papers on other topics associated with proc
 </details>
 
 
-## [Rock Mechanics and Rock Engineering](https://www.springer.com/journal/603)
+### [Rock Mechanics and Rock Engineering](https://www.springer.com/journal/603)
 
 <details>
 <summary><mark>[Impact factor: 4.1 (2018); Five year impact factor: 4.679 (2018)]</mark> - Aims&Scope[en] (点击展开)</summary>
@@ -62,7 +62,7 @@ Fields of interest include rock mechanics in all its varied aspects including la
 </details>
 
 
-## [Engineering Geology](https://www.sciencedirect.com/journal/engineering-geology/)
+### [Engineering Geology](https://www.sciencedirect.com/journal/engineering-geology/)
 
 <details>
 <summary><mark>[CiteScore: 4.7; Impact Factor: 3.909]</mark> - Aims&Scope[en] (点击展开)</summary>
@@ -73,7 +73,7 @@ The journal is intended for academic scientists, industry and applied researcher
 </details>
 
 
-## [Ocean Engineering](https://www.sciencedirect.com/journal/ocean-engineering)
+### [Ocean Engineering](https://www.sciencedirect.com/journal/ocean-engineering)
 
 <details>
 <summary><mark>[CiteScore: 3.6; Impact Factor: 2.73]</mark> - Aims&Scope[en] (点击展开)</summary>
@@ -117,7 +117,7 @@ Automatic Control of Marine Systems: Papers submitted in this subject area shoul
 </details>
 
 
-## [Journal of Natural Gas Science and Engineering](https://www.sciencedirect.com/journal/journal-of-natural-gas-science-and-engineering)
+### [Journal of Natural Gas Science and Engineering](https://www.sciencedirect.com/journal/journal-of-natural-gas-science-and-engineering)
 
 <details>
 <summary><mark>[CiteScore: 4.54; Impact Factor: 3.859]</mark> - Aims&Scope[en] (点击展开)</summary>
@@ -127,7 +127,7 @@ Research articles, case histories, field process reports, short communications, 
 </details>
 
 
-## [International Journal for Numerical and Analytical Methods in Geomechanics](https://onlinelibrary.wiley.com/journal/10969853)
+### [International Journal for Numerical and Analytical Methods in Geomechanics](https://onlinelibrary.wiley.com/journal/10969853)
 
 <details>
 <summary><mark>[Impact factor:2.481]</mark> - Aims&Scope[en] (点击展开)</summary>
@@ -135,7 +135,7 @@ The journal welcomes manuscripts that substantially contribute to the understand
 </details>
 
 
-## [International Journal of Rock Mechanics and Mining Sciences](https://www.sciencedirect.com/journal/international-journal-of-rock-mechanics-and-mining-sciences)
+### [International Journal of Rock Mechanics and Mining Sciences](https://www.sciencedirect.com/journal/international-journal-of-rock-mechanics-and-mining-sciences)
 
 <details>
 <summary><mark>[CiteScore: 5.27; Impact Factor: 3.78]</mark> - Aims&Scope[en] (点击展开)</summary>
@@ -143,7 +143,7 @@ This journal is concerned with original research, new developments, site measure
 </details>
 
 
-## [International Journal of Refractory Metals and Hard Materials](https://www.sciencedirect.com/journal/international-journal-of-refractory-metals-and-hard-materials)
+### [International Journal of Refractory Metals and Hard Materials](https://www.sciencedirect.com/journal/international-journal-of-refractory-metals-and-hard-materials)
 
 <details>
 <summary><mark>[CiteScore: 3.11; Impact Factor: 2.794]</mark> - Aims&Scope[en] (点击展开)</summary>
@@ -155,7 +155,7 @@ IJRMHM aims to bridge the gap between pure research and the more practical aspec
 </details>
 
 
-## ~[Tunnelling and Underground Space Technology](https://www.sciencedirect.com/journal/tunnelling-and-underground-space-technology)~
+### ~[Tunnelling and Underground Space Technology](https://www.sciencedirect.com/journal/tunnelling-and-underground-space-technology)~
 
 <details>
 <summary><mark>[CiteScore: 5; Impact Factor: 3.942]</mark> - Aims&Scope[en] (点击展开)</summary>
@@ -167,7 +167,7 @@ All papers on the topics within the journal scope are welcomed. Papers can be in
 </details>
 
 
-## [Journal of Petroleum Science and Engineering](https://www.sciencedirect.com/journal/journal-of-petroleum-science-and-engineering/)
+### [Journal of Petroleum Science and Engineering](https://www.sciencedirect.com/journal/journal-of-petroleum-science-and-engineering/)
 
 <details>
 <summary><mark>[CiteScore: 3.66; Impact Factor: 2.886]</mark> - Aims&Scope[en] (点击展开)</summary>
@@ -177,7 +177,7 @@ Papers will be published with the minimum of publication delay. Research article
 </details>
 
 
-## [Tribology International](https://www.sciencedirect.com/journal/tribology-international/)
+### [Tribology International](https://www.sciencedirect.com/journal/tribology-international/)
 
 <details>
 <summary><mark>[CiteScore: 4.1; Impact Factor: 3.517]</mark> - Aims&Scope[en] (点击展开)</summary>
@@ -186,7 +186,7 @@ Tribology International seeks to publish original research papers of the highest
 </details>
 
 
-## [Wear](https://www.sciencedirect.com/journal/wear)
+### [Wear](https://www.sciencedirect.com/journal/wear)
 
 <details>
 <summary><mark>[CiteScore: 3.35; Impact Factor: 2.95]</mark> - Aims&Scope[en] (点击展开)</summary>
@@ -202,7 +202,7 @@ The Abstracts of all submissions, whether a full paper or a shorter communicatio
 </details>
 
 
-## ~[Tribology Letters](https://www.springer.com/journal/11249)~
+### ~[Tribology Letters](https://www.springer.com/journal/11249)~
 
 <details>
 <summary><mark>[Impact factor: 2.235 (2018); Five year impact factor: 2.404 (2018)]</mark> - Aims&Scope[en] (点击展开)</summary>
@@ -210,7 +210,7 @@ Tribology Letters is devoted to the development of the science of tribology and 
 </details>
 
 
-## ~[Metals (open access)](https://www.mdpi.com/journal/metals)~
+### ~[Metals (open access)](https://www.mdpi.com/journal/metals)~
 
 <details>
 <summary><mark>[Current Impact Factor: 2.259; 5-year Impact Factor: 2.371]</mark> - Aims&Scope[en] (点击展开)</summary>
@@ -235,7 +235,7 @@ Several topical special issues will be published.
 </details>
 
 
-## ~[Applied Sciences (open access)](https://www.mdpi.com/journal/applsci)~
+### ~[Applied Sciences (open access)](https://www.mdpi.com/journal/applsci)~
 
 <details>
 <summary><mark>[Current Impact Factor: 2.217; 5-year Impact Factor: 2.287]</mark> - Aims&Scope[en] (点击展开)</summary>

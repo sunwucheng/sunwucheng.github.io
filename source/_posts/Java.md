@@ -150,7 +150,7 @@ public class Hello {
 
 ```
 public class Hello { // 类名是Hello
-    // ...
+  // ...
 } // class定义结束
 ```
 
@@ -161,7 +161,7 @@ public class Hello { // 类名是Hello
 ```
 public class Hello {
     public static void main(String[] args) { // 方法名是main
-        // 方法代码...
+      // 方法代码...
     } // 方法定义结束
 }
 ```
