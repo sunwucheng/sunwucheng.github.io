@@ -80,9 +80,9 @@ Linux操作系统的开机过程: BIOS -> Boot Loader -> 加载系统内核 -> �
 红帽RHEL 7系统已经替换掉了熟悉的初始化进程服务System V init，正式采用全新的systemd初始化进程服务
 Linux系统启动时的初始化工作可看作一个个单元(Unit)，systemd用目标(target)代替System V init中运行级别的概念
 
-| System V init运行级别 | ystemd目标名称 | 作用 |
+| System V init 运行级别 | Systemd 目标名称 | 作用 |
 | :-------: | :---------------------------------- | :-----------: |
-| 0         |	runlevel0.target, poweroff.target | 关机           |
+| 0         | runlevel0.target, poweroff.target   | 关机           |
 | 1	        | runlevel1.target, rescue.target	  | 单用户模式      |
 | 2	        | runlevel2.target, multi-user.target | 等同于级别3     |
 | 3	        | runlevel3.target, multi-user.target | 多用户的文本界面 |

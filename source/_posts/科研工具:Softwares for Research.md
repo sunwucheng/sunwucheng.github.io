@@ -25,12 +25,13 @@ categories: Specialty
 
 ## 最新期刊论文推送
 
-* ~~手机软件[Researcher](https://www.researcher-app.com/)( 信息密度太低，属实憨憨 )~~
-* 期刊官网RSS链接 ( RSS阅读器选择: ~~[feeder](https://feeder.co)虽好但国内访问歇菜~~、[其他推荐](
-https://www.zhihu.com/question/28808592/answer/866134265) )
+* 期刊阅读手机软件: ~~[Researcher](https://www.researcher-app.com/)( 信息密度太低，属实憨憨 )~~
+* RSS阅读器: ~~[Feeder.co](https://feeder.co)(国内访问歇菜)~~、[Feedbro](https://nodetics.com/feedbro/)(浏览器插件)、[2019 国内最好的 RSS 阅读器是什么？ - 知乎](https://www.zhihu.com/question/28808592)
+	期刊官网RSS链接: 
 	+ ScienceDirect: [International Journal of Rock Mechanics and Mining Sciences](https://www.sciencedirect.com/journal/international-journal-of-rock-mechanics-and-mining-sciences) 找寻并点击**RSS**图标
 	+ Springer: [Rock Mechanics and Rock Engineering](https://www.springer.com/journal/603) 点击页面最上**Search**，跳转到[新页面](https://link.springer.com/search?query=&search-within=Journal&facet-journal-id=603)后点击**RSS**图标
 	+ 中国知网: [岩石力学与工程学报](http://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=YSLX) 找寻并点击**RSS订阅**
+
 
 
 ## 文献阅读
