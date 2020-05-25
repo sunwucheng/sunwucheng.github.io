@@ -5,6 +5,25 @@ tags:
 categories: CS&EE
 ---
 
+
+**来源: [想做C语言/C++开发?这些才是你该学的东西！C语言/C++直通企业级开发的详细学习路线 - CodeSheep](https://www.bilibili.com/video/BV1G7411K7j2/)**
+**来源: [自学C/C++的书籍推荐（自学C/C++看书路线推荐）| 科普视频教程 - CodeSheep](https://www.bilibili.com/video/BV1ob411m76i/)**
+- 编程语言
+	- C: 《C Primer Plus》, 《C和指针》, 《C专家编程》
+	- C++: 《Essential C++》, 《C++ Primer 4th》, 《Effective C++》, 《More Effective C++》
+- 基础四大件(必会)
+	- 数据结构与算法: 《大话数据结构》c/c++, 《算法第四版》java, 《剑指offer》找工作, leetcode 刷题
+	- 计算机网络: 《tcp/ip详解》
+	- 操作系统: 《深入理解计算机系统》CSAPP
+	- 设计模式: 《大话设计模式》
+- 应用与编程实践(偏代码)
+	- linux使用: 《鸟哥的Linux私房菜》较详细、《linux就该这么学》较简单
+	- 编译和调试: GUN官方GCC和GDB文档、《debugging with gdb 》中文版、《跟我一起写makefile》陈皓
+	- linux环境编程: 《unix环境高级编程》\*、《linux高性能服务器编程》、《posix多线程程序设计》关于多线程
+
+
+
+
 **来源: [C Primer Plus](https://book.douban.com/subject/26792521/)**
 
 
@@ -200,7 +219,9 @@ int main(void)
 }
 ```
 
-* `sizeof`: C语言的内置运算符, 以字节为单位给出指定类型的大小
+* `sizeof`: C语言的内置运算符, 以字节为单位给出指定对象(类型/特定量)的大小
+	- 运算对象若是**类型**: 圆括号必不可少，应写成`sizeof(char)`形式
+	- 运算对象是**特定量**: 圆括号可有可无，可写成`sizeof name`或`sizeof 6.28`或`sizeof(6.28)`
 * `%zd`: C99和C11提供`%zd`转换说明匹配sizeof的返回类型(size_t类型)
 * `%zd`: 一些不支持C99和C11的编译器可用`%u`或`%lu`代替`%zd`
 
@@ -447,7 +468,30 @@ C语言用空字符(null character)标记字符串的结束，即字符串一定
 有40个储存单元的字符串最多能储存39个字符，故字符串的数组容量必须至少比待存储字符串的字符数多1
 空字符不是数字0，而是非打印字符，其ASCII码值是(或等价于)0
 
-### 4.2.3 strlen()函数
+```
+/* sizeof运算符、strlen()函数返回的数据类型d的转换说明: %u或%lu(早期)，%zd(C99、C11新增) */
+#include <stdio.h>
+#include <string.h>
+# define PRAISE "OMG U R the one."
+int main(void)
+{
+	char name[40];
+
+	printf("What's your name? ");
+	scanf("%s", name);
+	printf("Your name of %zd letters ", strlen(name));
+	printf("occupies %zd memory cells.\n", sizeof name);
+	printf("The phrase of praise has %zd letters ", strlen(PRAISE));
+	printf("and occupies %zd memory cells.\n", sizeof PRAISE);
+
+	return 0;
+}
+```
+
+* sizeof运算符: 以字节为单位给出对象的大小(字符串数组总的字节大小)
+* strlen()函数: 给出字符串中的字符长度(字符串数组中字符信息的字节大小，不包括空字符)
+
+## 4.3 常量和C预处理器
 
 
 
