@@ -7,6 +7,7 @@ categories: English
 
 # **来源: [纯正英音15堂必修课](https://www.kaochong.com/assemble/act.html?assembleActivityId=1012&assembleOrderId=ee2381aeedec4b2ab36d07890c8084ff&c=app_webview_shareweixinfriends&from=singlemessage&isappinstalled=0)**
 
+
 ## 0. 英音、音标
 
 ***RP (received pronunciation)***
@@ -29,10 +30,23 @@ categories: English
 |       | 舌边音 | 浊辅音 | *`[l]`* |
 |       | 半元音 | 浊辅音 | *`[j], [w]`* |
 
-- 元音——气流不受阻碍的音 (单元音: 单元音发音过程中口型保持不变)
+- 元音——气流不受阻碍的音
+	- 单元音: 单元音发音过程中口型保持不变
+	- 双元音: 两个单元音组成，所有双元音都有明显的口型滑动
+		- 合口双元音：嘴往合的方向走，发音应读成一个(读的过程中嘴从张开开朝着合住并拢的方向发展)
+			- 由第一个音向第二个音自然过渡
+			- 滑动动作大，且连续
+			- 前重，后轻；前长，后短；前清楚，后模糊
+
+		- 集中双元音
+			- 由[i]/[e]/[u]向[ə]滑动
+			- [eə]里第一个音开口略大于[e]
 - 辅音——气流受到阻碍的音
 
+
 ## 1. 元音音标——单元音
+
+### 英音发音方法
 
 |      |      |      |
 | :--: | :--- | :--: |
@@ -53,8 +67,6 @@ categories: English
 |      |      |      |
 | *`[u:]`* | 长元音；小圆唇；轻轻噘嘴，不要太用力 | *room, do, blue, movie, true* |
 | *`[u]`*  | 短元音；小圆唇；嘴唇稍微翘起 | *good, could, put, cook* |
-
-### 中式发音鉴赏
 
 He said `/e/` he is very `/æ/` sad `/aɪ/` because no one is on his side.
                                                
@@ -77,5 +89,24 @@ He said `/e/` he is very `/æ/` sad `/aɪ/` because no one is on his side.
 *Papa、Smart、Afternoon、Demand、Task*
 
 
+## 2. 元音音标——双元音
 
+### 英音发音方法
 
+|      |      |      |
+| :--: | :--- | :--: |
+| *`[eɪ]`*  | 第1个音比[e]小一点、第2个音开口比[ɪ]大一点 | *make, cake, take, snake, bait* |
+| *`[aɪ]`*  | 第1个音比[e]小一点、第2个音开口比[ɪ]大一点 | *Hi, nice, side, bike, bite*  |
+| *`[ɔɪ]`*  | 第1个音比[e]小一点、第2个音开口比[ɪ]大一点 | *boy, toy, Roy, noise*  |
+| *`[əu]`*  | 自然过渡，双唇渐渐收圆，注意结尾不要读成[u:] | *no, rose, don't, home*  |
+| *`[au]`*  | 自然过渡，双唇渐渐收圆，注意结尾不要读成[u:] | *ouch, cow, now, loud, mouth, round*  |
+| *`[iə]`*  |                 | *here, ear, dear* |
+| *`[eə]`*  |                 | *air, fair, hair* |
+| *`[uə]`*  | 现在的[uə]的英音发音倾向于读[ɔ:] | *tour, poor, sure* |
+
+eyes/ice [ai], ass [æ], as /ez/, s /es/; side [ai], sad [æ], said [e]; like [ai], lack [æ], luck [ʌ]
+
+### 英音发音技巧
+
+双元音在英音中非常夸张且更加圆润([a]发音很靠后，[əu]发音更长一点): *Hi [ai], so [əu], eighth [ei], excited [ai]*  
+什么时候[əu]发音更短一点: 在[əu]后面有[l](told, old)时; 一个单词中有好几个音节(元音)时

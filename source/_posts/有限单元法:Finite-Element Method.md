@@ -6,25 +6,6 @@ categories: Specialty
 mathjax: true
 ---
 
-**来源: [求推荐几本好的力学及有限元书籍？ - 煤球儿的回答 - 知乎](https://www.zhihu.com/question/27691300/answer/152295918)**
-
-[数值计算方法]
-- FEM: 有限单元法
-- DEM: 离散元
-- FVM: 有限体积法
-- X-FEM: 扩展有限元
-- FDM: 有限差分法
-- LBM: 玻尔兹曼格子法
-- SPH: 光滑粒子流体动力学
-
-[有限元教材]
-- 朱伯芳《有限单元法原理与应用》★★★★★
-- Logan《A first course in finite elemnt method》(use ADINA software) ★★★★
-- Jacob《A first course in finite elemnt》 ★★★
-- Bathe《Finite Element Procedures》+ OpenCourse from Bathe ★★★★
-- Zienkiewicz《The Finite Element Method for Solid and Structural Mechanics》 ★★★★
-- Simo&Hughes 《Computational Inelasticity》 (Nonlinear) ★★★
-- Ted Belytschko 《Nonlinear Finite Elements for Continua and Structures》 (Nonlinear) ★★★
 
 **来源: [有限单元法原理与应用 - 朱伯芳](https://book.douban.com/subject/1026571/)**
 
@@ -37,7 +18,7 @@ mathjax: true
 - 相同点: 基本概念相同，即把一个结构看成有限个单元的组合，这些单元在有限个结点上连接起来
 - 不同点: 杆系结构可直接把原来的杆、梁、柱等构件分为有限个块体；连续介质没有这样的自然单元，需人为划分
 
-> **胡克定律(Hooke's law)**: 在应力低于比例极限的情况下，固体中的应力σ与应变ε成正比，即$σ=Εε$，式中E为常数，单位MPa，称为**弹性模量**。把胡克定律推广应用于三向应力和应变状态，称为**广义胡克定律**。
+> **胡克定律(Hooke's law)**: 应力低于比例极限的情况下，固体中的应力σ与应变ε成正比，即$σ=Εε$，式中E为常数，单位MPa，称为**弹性模量**。把胡克定律推广应用于三向应力和应变状态，称为**广义胡克定律**。
 
 **弹性模量(Elastic Modulus or Modulus of Elasticity)**
 - **杨氏模量(Young's Modulus)/拉伸模量(Tensile Modulus)** = 线应力 ÷ 线应变，**$E = (F/S)/(dL/L)$**
@@ -49,7 +30,6 @@ mathjax: true
 
 超静定力学问题: 求解上应兼顾**平衡条件**、**变形条件**、**物理条件**三方面的要求，解决关键在于正确分析**变形条件**
 - 桁架在荷重P作用下，各杆轴力等于多少？
-![](/202005130838-1.1-超静定问题——桁架.png)
 由于对称，设结点4的水平位移为零。设结点4的铅直位移为$v_4$，而节点1、2、3被固定，于是各单元的变位可计算如下: $𝛥_{14}=v_4⋅cos𝜃$ ，…… **`？？？`** (位移法: 通过结点平衡方程求出结点位移，再由位移反推出各单元的内力)
 
 ## 1.2 水平杆单元的刚度矩阵
@@ -64,7 +44,6 @@ mathjax: true
 
 
 
-## 1.2 水平杆单元的刚度矩阵
 
 
 
