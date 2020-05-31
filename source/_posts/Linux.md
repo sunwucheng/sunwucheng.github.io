@@ -5,14 +5,14 @@ tags:
 categories: CS&EE
 ---
 
-**来源: [Linux就该这么学](https://www.linuxprobe.com)**
+# **来源: [Linux就该这么学](https://www.linuxprobe.com)**
 
 
-# 0 咱们先来谈谈学习方法和红帽系统
+## 0 咱们先来谈谈学习方法和红帽系统
 
-## 0.3 开源共享精神
+### 0.3 开源共享精神
 
-![](/202004291234-0.1-free_software_licenses.png)
+![](http://www.ruanyifeng.com/blogimg/asset/201105/free_software_licenses.png)
 
 * GNU GPL (GNU General Public License)
 * BSD (Berkeley Software Distribution)
@@ -21,9 +21,9 @@ categories: CS&EE
 * MIT (Massachusetts Institute of Technology)
 
 
-# 1 部署虚拟环境安装linux系统
+## 1 部署虚拟环境安装linux系统
 
-## 1.4 重置root用户密码
+### 1.4 重置root用户密码
 
 ```
 # cat /etc/redhat-release     //确定是否为RHEL 7系统
@@ -41,7 +41,7 @@ exit
 reboot
 ```
 
-## 1.5 RPM (Red-Hat Package Manager) 红帽软件包管理器 
+### 1.5 RPM (Red-Hat Package Manager) 红帽软件包管理器 
 
 RPM = 源代码 + 安装规则
 
@@ -54,7 +54,7 @@ RPM = 源代码 + 安装规则
 | 列出软件文件信息    | rpm -qpl filename.rpm |
 | 查询文件属于哪个RPM | rpm -qf filename      |
 
-## 1.6 YUM软件仓库 (Yellow dog Updater, Modified)
+### 1.6 YUM软件仓库 (Yellow dog Updater, Modified)
 
 YUM = (源代码 + 安装规则) * N
 
@@ -74,7 +74,7 @@ YUM = (源代码 + 安装规则) * N
 | yum groupremove 软件包组  | 移除指定的软件包组         |
 | yum groupinfo 软件包组    | 查询指定的软件包组信息     |
 
-## 1.7 Systemd初始化进程
+### 1.7 Systemd初始化进程
 
 Linux操作系统的开机过程: BIOS -> Boot Loader -> 加载系统内核 -> 内核进行初始化 -> 启动初始化进程
 红帽RHEL 7系统已经替换掉了熟悉的初始化进程服务System V init，正式采用全新的systemd初始化进程服务
@@ -112,16 +112,16 @@ Linux系统启动时的初始化工作可看作一个个单元(Unit)，systemd�
 * systemctl = 配置工具
 
 
-# 2 新手必须掌握的[Linux命令](https://www.linuxcool.com/)
+## 2 新手必须掌握的[Linux命令](https://www.linuxcool.com/)
 
-## 2.1 强大好用的SHELL
+### 2.1 强大好用的SHELL
 
 计算机硬件通常由运算器、控制器、存储器、输入/输出设备等共同组成，系统内核让各硬件设备各司其职且协同运行
 Linux系统内核负责对硬件资源分配、调度等管理任务，建议用户基于系统调用接口开发出的程序或服务来管理计算机
 Users ⇦**Shell**⇨ Procedure & Service { System Call Interface [ Kernel ( Hardware ) ] }
 Shell(终端/壳)充当人与内核/硬件之间的翻译官，主流Linux系统默认终端为**Bash**(Bourne-Again SHell)解释器
 
-## 2.2 执行查看帮助命令
+### 2.2 执行查看帮助命令
 
 Linux命令的格式: 命令名称 [命令参数] [命令对象]
 
@@ -159,7 +159,7 @@ Linux命令的格式: 命令名称 [命令参数] [命令对象]
 | SEE ALSO    | 相关的资料           |
 | HISTORY     | 维护历史与联系方式     |
 
-## 2.3 常用系统工作命令
+### 2.3 常用系统工作命令
 
 |          |          |
 | :------: | :------: |
@@ -174,7 +174,7 @@ Linux命令的格式: 命令名称 [命令参数] [命令对象]
 | kill     | 终止某个指定PID的服务进程，格式为`kill [参数] [进程PID]` |
 | killall  | 终止某个指定名称的服务所对应的全部进程，格式为`killall [参数] [服务名称]` |
 
-## 2.4 系统状态检测命令
+### 2.4 系统状态检测命令
 
 |           |          |
 | :-------: | :------- |
@@ -187,7 +187,7 @@ Linux命令的格式: 命令名称 [命令参数] [命令对象]
 | history   | 显示历史执行过的命令，格式为`history [-c]` |
 | sosreport | 收集系统配置及架构信息并输出诊断文档，格式为`sosreport` |
 
-## 2.5 工作目录切换命令
+### 2.5 工作目录切换命令
 
 |      |      |
 | :--: | :--- |
@@ -203,7 +203,7 @@ Linux命令的格式: 命令名称 [命令参数] [命令对象]
 * `ls -l` 查看文件的属性、大小等详细信息
 * `ls -ld [目录名称]` 查看目录属性信息
 
-## 2.6 文本文件编辑命令
+### 2.6 文本文件编辑命令
 
 |      |      |
 | :--: | :--- |
@@ -217,7 +217,7 @@ Linux命令的格式: 命令名称 [命令参数] [命令对象]
 | cut  | 按列提取文本字符，格式为`cut [参数] 文本` |
 | diff | 比较多个文本文件的差异，格式为`diff [参数] 文件` |
 
-## 2.7 文件目录管理命令
+### 2.7 文件目录管理命令
 
 |       |       |
 | :---: | :---- |
@@ -229,7 +229,7 @@ Linux命令的格式: 命令名称 [命令参数] [命令对象]
 | dd    | 按照指定大小和个数的数据块来复制文件或转换文件，格式为`dd [参数]` |
 | file  | 查看文件的类型，格式为`file 文件名` |
 
-## 2.8 打包压缩与搜索命令
+### 2.8 打包压缩与搜索命令
 
 |      |      |
 | :--: | :--- |
