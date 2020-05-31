@@ -12,21 +12,21 @@ categories: English
 [长难句第2句](https://mp.weixin.qq.com/s/yAbS5RUy-XLQKOiJxblsUA)
 *But the epidemic is 'moderate' in severity, according to Magret Chan, the organization's director general, with the overwhelming majority of patients experiencing only mild symptoms and full recovery, often in the absence of any medical treatment.*
 [长难句第3句](https://mp.weixin.qq.com/s/6oq_SSlnHc-_zyS_IZNiVA)
-
+*But the market generates interest far beyond its size because it brings together great wealth, enormous egos, greed, passion and controversy in a way matched by few other industries.*
 [长难句第4句](https://mp.weixin.qq.com/s/mXXpJrOkFstMCj2dDwXeIQ)
-
+*In short, the image that best represents the current crisis is the stereotypical cartoon scene of a man sitting at the breakfast table with a newspaper held up in front of his face, while a woman glares at the back of it, wanting to talk.*
 [长难句第5句](https://mp.weixin.qq.com/s/RSMqM1CKhVkEL2qHoCmitg)
-
+*Today, because of shrewd advertising and public health campaigns, many Americans habitually give their pearly whites a cavity-preventing scrub twice a day, often with Colgate, Crest or one of the other brands.*
 [长难句第6句](https://mp.weixin.qq.com/s/psnw-gTlzv7_QMnNnP6qpw)
-
+*Although the Supreme Court of the United States had prohibited intentional racial discrimination in jury selection as early as the 1880 case of Strauder v. West Virginia, the practice of selecting so-called elite or blue-ribbon juries provided a convenient way around this and other anti-discrimination laws.*
 [长难句第7句](https://mp.weixin.qq.com/s/OZmvDDA_33PcaxvaM2KyPg)
-
+*In the landmark 1975 decision Taylor vs. Louisiana, the Supreme Court extended the requirement that juries be representative of all parts of the community to the state level.*
 [长难句第8句](https://mp.weixin.qq.com/s/Y5mansnOCrW6nIjjOjH8lw)
-
+*Dr. Kroo and his team modeled what would happen if three passenger jets departing from Los Angeles, San Francisco and Las Vegas were to assemble over Utah, assume an inverted V-formation, occasionally change places so all could have a turn in the most favourable positions, and proceed to London.*
 [长难句第9句](https://mp.weixin.qq.com/s/Tsn03h9dfoJasdStzPQH7Q)
-
+*Having endured a painful period of unsustainability in his own life made it clear to him that sustainability-oriented values must be expressed through everyday action and choice.*
 [长难句第10句](https://mp.weixin.qq.com/s/pwHFU_9x2CKziDar5aOGCg)
-
+*We tend to think of the decades immediately following World War II as a time of prosperity and growth, with soldiers returning home by the millions, going off to college on the G. I. Bill and lining up at the marriage bureaus.*
 [长难句第11句](https://mp.weixin.qq.com/s/qNkWxnoRdK6RULNyFk020A)
 
 [长难句第12句](https://mp.weixin.qq.com/s/PzQynUUpXMKrZDJv2SAzAg)
@@ -99,6 +99,7 @@ categories: English
 
 [长难句第46句](https://mp.weixin.qq.com/s/dLytMjZqdXdNqxQo_0Gh0Q)
 
+[长难句第47句](https://mp.weixin.qq.com/s/I19evWWX31OSWCYyZD8Vzg)
 
 
 
