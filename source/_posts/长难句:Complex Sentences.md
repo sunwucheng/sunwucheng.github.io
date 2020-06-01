@@ -28,25 +28,25 @@ categories: English
 [长难句第10句](https://mp.weixin.qq.com/s/pwHFU_9x2CKziDar5aOGCg)
 *We tend to think of the decades immediately following World War II as a time of prosperity and growth, with soldiers returning home by the millions, going off to college on the G. I. Bill and lining up at the marriage bureaus.*
 [长难句第11句](https://mp.weixin.qq.com/s/qNkWxnoRdK6RULNyFk020A)
-
+*While polls show Britons rate "the countryside" alongside the royal family, Shakespeare and the National Health Service(NHS) as what makes them proudest of their country, this has limited political support.*
 [长难句第12句](https://mp.weixin.qq.com/s/PzQynUUpXMKrZDJv2SAzAg)
-
+*In the 1930s Frank Lloyd Wright started building more modest and efficient houses — usually around 1,200 square feet — than the spreading two-story ones he had designed in the 1890s and the early 20th century.*
 [长难句第13句](https://mp.weixin.qq.com/s/YFJ2-s1IcXo05ZeoE_2CbA)
-
+*Markets have lost faith  that the euro zone’s economies, weaker or stronger, will one day converge thanks to the discipline of sharing a single currency, which denies uncompetitive members the quick fix of devaluation.*
 [长难句第14句](https://mp.weixin.qq.com/s/vLezEt5leUQJah-_LSlvVw)
-
+*The demands follow comments made last week by the health secretary, Andrew Lansley, who insisted the government could not force people to make healthy choices and promised to free businesses from public health regulations.*
 [长难句第15句](https://mp.weixin.qq.com/s/S_DJrIp3UUAesceolRFJZQ)
-
+*Unfortunately, L. A. Unified has produced an inflexible policy which mandates that with the exception of some advanced courses, homework may no longer count for more than 10% of a student’s academic grade.*
 [长难句第16句](https://mp.weixin.qq.com/s/SLZe0mm-0IJwDXI08IMTZw)
-
+*But if the district is essentially giving a pass to students who do not do their homework because of complicated family lives, it is going riskily close to the implication that standards need to be lowered for poor children.*
 [长难句第17句](https://mp.weixin.qq.com/s/qaPG-TdzzX3cPVhRohcSmQ)
-
+*Many said that unemployment, while extremely painful, had improved them in some ways: they had become less materialistic and more financially prudent; they were more aware of the struggles of others.*
 [长难句第18句](https://mp.weixin.qq.com/s/xsj9oRBGK4J1HEukETsZRw)
-
+*In The Moral Consequences of Economic Growth, the economic historian Benjamin Friedman argues that both inside and outside the U. S., lengthy periods of economic stagnation or decline have almost always left society more mean-spirited and less inclusive, and have usually stopped or reversed the advance of rights and freedoms.*
 [长难句第19句](https://mp.weixin.qq.com/s/oEPJyJxFJJBQFHmgYZCYcQ)
-
+*These are the kind of workers that countries like Britain, Canada and Australia try to attract by using immigration rules that privilege college graduates.*
 [长难句第20句](https://mp.weixin.qq.com/s/OeDrFjSWTMVIit00jt9e1w)
-
+*Soon you’ll feel comfortable asking if they’ve any knuckles of ham for soups and stews, or beef bones, chicken carcasses and fish heads for stock which, more often than not, they will let you have for free.*
 [长难句第21句](https://mp.weixin.qq.com/s/I70W1DXn7lgxwmG9MZtfCw)
 
 [长难句第22句](https://mp.weixin.qq.com/s/RyttCuJ-x5pWDXJ0HMamhQ)
