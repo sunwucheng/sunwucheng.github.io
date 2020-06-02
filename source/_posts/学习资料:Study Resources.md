@@ -1,5 +1,5 @@
 ---
-title: 学习资源/Study Resources
+title: 学习资料/Study Resources
 date: 2020-05-27 21:54:41
 tags: 
 categories: THE MYTH
@@ -35,7 +35,7 @@ categories: THE MYTH
 - 编译和调试: GUN官方GCC和GDB文档、《debugging with gdb 》中文版、《跟我一起写makefile》陈皓
 - linux环境编程: 《unix环境高级编程》\*、《linux高性能服务器编程》、《posix多线程程序设计》关于多线程
 
-## Image Processing
+## 图像处理/Image Processing
 
 **来源: [学习资源：图像处理从入门到精通 - Jackpop的文章 - 知乎](https://zhuanlan.zhihu.com/p/67343443)**
 
@@ -46,6 +46,11 @@ categories: THE MYTH
 - 《纹理图像分析》-- 马莉,范影乐
 - 《医学图像处理中的数学理论与方法》-- 孔德兴
 
+## 业余无线电通信/Amateur Radio
+
+[书籍]
+- 《业余无线电通信（第四版》
+- 《天线手册（第22版）》
 
 # Specialty
 
