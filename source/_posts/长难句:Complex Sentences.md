@@ -48,29 +48,29 @@ categories: English
 [长难句第20句](https://mp.weixin.qq.com/s/OeDrFjSWTMVIit00jt9e1w)
 *Soon you’ll feel comfortable asking if they’ve any knuckles of ham for soups and stews, or beef bones, chicken carcasses and fish heads for stock which, more often than not, they will let you have for free.*
 [长难句第21句](https://mp.weixin.qq.com/s/I70W1DXn7lgxwmG9MZtfCw)
-
+*Since technology has such an insatiable appetite for eating up human jobs, this phenomenon will continue to restructure our economy in ways we cannot immediately foresee.*
 [长难句第22句](https://mp.weixin.qq.com/s/RyttCuJ-x5pWDXJ0HMamhQ)
-
+*In our rapidly changing economy, we more than ever need people in the workplace who can take initiative and exercise their imagination “to respond to unexpected events”.*
 [长难句第23句](https://mp.weixin.qq.com/s/wOt8018kCXJpgfzyU9mkog)
-
+*In our rapidly changing economy, we more than ever need people in the workplace who can take initiative and exercise their imagination “to respond to unexpected events”.*
 [长难句第24句](https://mp.weixin.qq.com/s/OIsnGD1zfzOiWUiZ6sgJAw)
-
+*Researchers measured people’s cortisol, which is a stress marker, while they were at work and while they were at home and found it higher at what is supposed to be a place of refuge.*
 [长难句第25句](https://mp.weixin.qq.com/s/gS1-sP8PTvjJR_NKwFAJJA)
-
+*The survey then asks whether they worked less than 35 hours in that week because they wanted to work less than full time or because they had no choice.*
 [长难句第26句](https://mp.weixin.qq.com/s/tu1xo4s_bgP6EbczWmEMBg)
-
+*These are people who may previously have felt the need to get a full-time job that provided insurance in order to cover themselves and their families.*
 [长难句第27句](https://mp.weixin.qq.com/s/wdGjt_XEtvZwJDKqvciOdQ)
-
+*So they compared U.S. cities’ average happiness measured by Gallup polling with the investment activity of publicly traded firms in those areas.*
 [长难句第28句](https://mp.weixin.qq.com/s/7A136sb1cdD3VO2TeB5g_w)
-
+*To find out, the researchers controlled for various factors that might make firms more likely to invest—like size, industry, and sales—and for indicators that a place was desirable to live in, like growth in wages or population.*
 [长难句第29句](https://mp.weixin.qq.com/s/lEO3MqXIPmmlhIxsC14E9g)
-
+*The correlation between happiness and investment was particularly strong for younger firms, which the authors attribute to “less codified decision making process” and the possible presence of “younger and less experienced managers who are more likely to be influenced by sentiment.”*
 [长难句第30句](https://mp.weixin.qq.com/s/nQri4CJDIi_M2MmNfnCQ5Q)
-
+*The Flatiron School, where people pay to learn programming, started as one of the many coding bootcamps that’s become popular for adults looking for a career change.*
 [长难句第31句](https://mp.weixin.qq.com/s/mPLa3ciou27OWJ1-QE4yCg)
-
+*Biologists estimate that as many as 2 million lesser prairie chickens — a kind of bird living on stretching grasslands — once lent red to the often gray landscape of the mid-western and southwestern United States.*
 [长难句第32句](https://mp.weixin.qq.com/s/W_7oKCOafOOveJSrj3RKtw)
-
+*In particular, they called for forging closer collaborations with western state governments, which are often uneasy with federal action，and with the private landowners who control an estimated 95% of the prairie chicken’s habitat.*
 [长难句第33句](https://mp.weixin.qq.com/s/aTLkQhDfYgpg-meBkWWRww)
 
 [长难句第34句](https://mp.weixin.qq.com/s/Y8W5icOmE_vYmWhwf2uTmA)
