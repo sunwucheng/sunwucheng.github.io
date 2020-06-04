@@ -1,5 +1,5 @@
 ---
-title: 无内鬼 来点XX笑话
+title: 无内鬼 来点XX笑话/Political Joke
 date: 2020-06-02 16:24:24
 tags: 
 categories: THE MYTH
