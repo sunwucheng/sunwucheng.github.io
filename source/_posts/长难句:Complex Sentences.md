@@ -72,39 +72,43 @@ categories: English
 [长难句第32句](https://mp.weixin.qq.com/s/W_7oKCOafOOveJSrj3RKtw)
 *In particular, they called for forging closer collaborations with western state governments, which are often uneasy with federal action，and with the private landowners who control an estimated 95% of the prairie chicken’s habitat.*
 [长难句第33句](https://mp.weixin.qq.com/s/aTLkQhDfYgpg-meBkWWRww)
-
+*“Carry a book with you at all times” can actually work, too — providing you dip in often enough, so that reading becomes the default state from which you temporarily surface to take care of business, before dropping back down.*
 [长难句第34句](https://mp.weixin.qq.com/s/Y8W5icOmE_vYmWhwf2uTmA)
-
+*From career to community and family, these contrasts suggest that in the aftermath of the searing Great Recession, those just starting out in life are defining priorities and expectations that will increasingly spread through virtually all aspects of American life, from consumer preferences to housing patterns to politics.*
 [长难句第35句](https://mp.weixin.qq.com/s/aICC2DaAGdfS2TB9O7jlww)
-
+*After about 40 minutes of shopping, most people stop struggling to be rationally selective, and instead begin shopping emotionally—which is the point at which we accumulate the 50 percent of stuff in our cart that we never intended buying.*
 [长难句第36句](https://mp.weixin.qq.com/s/T1CBIMU5ljjTzMtfpscinQ)
-
+*A different and not mutually exclusive prediction holds that the future will be a wasteland of a different sort, one characterized by purposelessness: Without jobs to give their lives meaning, people will simply become lazy and depressed.*
 [长难句第37句](https://mp.weixin.qq.com/s/DeIv9RAb7LhhNO6fydOWOg)
-
+*Infants are wired to look at parents’ faces to try to understand their world, and if those faces are black and unresponsive—as they often are when absorbed in a device—it can be extremely disconcerting for the children.*
 [长难句第38句](https://mp.weixin.qq.com/s/mT48qXdQjr4iuWbyYEwQ1Q)
-
+*Today, widespread social pressure to immediately go to college in conjunction with increasingly high expectations in a fast-moving world often causes students to completely overlook the possibility of taking a gap year.*
 [长难句第39句](https://mp.weixin.qq.com/s/fSUyRMGYC8TDZjm2vgfWFA)
-
+*Calls to disassemble all telescopes on Mauna Kea or to ban future development there ignore the reality that astronomy and Hawaiian culture both seek to answer big questions about who we are, where we come from and where we are going.*
 [长难句第40句](https://mp.weixin.qq.com/s/qz-IfjYoeWpBQEHU_jwBhw)
-
+*“So few authors have brains enough or literary gift enough to keep their own end up in journalism,” Newman wrote, “that I am tempted to define 'journalism' as 'a term of contempt applied by writers who are not read to writers who are.'”*
 [长难句第41句](https://mp.weixin.qq.com/s/PY17LwS2mLlIcWecK2MXMw)
-
+*Curbs on business-method claims would be a dramatic about-face, because it was the Federal Circuit itself that introduced such patents with its 1998 decision in the so-called State Street Bank case, approving a patent on a way of pooling mutual-fund assets.*
 [长难句第42句](https://mp.weixin.qq.com/s/M7hW04Oivxvkd1I2ExClDg)
-
+*The Federal Circuit issued an unusual order stating that the case would be heard by all 12 of the court's judges, rather than a typical panel of three, and that one issue it wants to evaluate is whether it should "reconsider" its State Street Bank ruling.*
 [长难句第43句](https://mp.weixin.qq.com/s/bhW9ujitJ2EfSi4IJKGKHg)
-
+*Marketers have embraced the two-step flow because it suggests that if they can just find and influence the influentials, those selected people will do most of the work for them.*
 [长难句第44句](https://mp.weixin.qq.com/s/Ly42ZTB2GjD8gYprimIpLQ)
-
+*If people in the network just two degrees removed from the initial influential prove resistant, for example, the cascade of change won't propagate very far or affect many people.*
 [长难句第45句](https://mp.weixin.qq.com/s/FFM0eRyzEDi_43bUClbOnA)
-
+*They found that the principal requirement for what is called “global cascades”—the widespread propagation of influence through networks—is the presence not of a few influentials but, rather, of a critical mass of easily influenced people.*
 [长难句第46句](https://mp.weixin.qq.com/s/dLytMjZqdXdNqxQo_0Gh0Q)
-
+*Consumption of food and drink in places other than homes has risen from about 32 percent of total consumption in 1995 to 35 percent in 2000 and is expected to approach 38 percent by 2005.*
 [长难句第47句](https://mp.weixin.qq.com/s/I19evWWX31OSWCYyZD8Vzg)
-
-
-
-
-
+*All in all, this clearly seems to be a market in which big retailers could profitably apply their gigantic scale, existing infrastructure, and proven skills in the management of product ranges, logistics and marketing intelligence.*
+[长难句第48句](https://mp.weixin.qq.com/s/dM_CvJkbd4DBhz0UMllfog)
+*Big retailers must understand these differences before they can identify the segments of European wholesaling in which their particular abilities might unseat smaller but entrenched competitors.*
+[长难句第49句](https://mp.weixin.qq.com/s/n3FupVLONXlnSJ8ItP6wUg)
+*Scientists jumped to the rescue with some distinctly shaky evidence to the effect that insects would eat us up if birds failed to control them.*
+[长难句第50句](https://mp.weixin.qq.com/s/X1Lcnyq7TbsO0PFwzqQ0GA)
+*Time was when biologists somewhat overworked the evidence that these creatures preserve the health of game by killing the physically weak, or that they prey only on "worthless" species.*
+[长难句第51句](https://mp.weixin.qq.com/s/ilfQghbHsJlhnP29RH9mOA)
+*In an experiment published in 1988, social psychologist Fritz Strack of the University of Würzburg in Germany asked volunteers to hold a pen either with their teeth—thereby creating an artificial smile—or with their lips, which would produce a disappointed expression.*
 
 
 
