@@ -109,8 +109,8 @@ categories: English
 *Time was when biologists somewhat overworked the evidence that these creatures preserve the health of game by killing the physically weak, or that they prey only on "worthless" species.*
 [长难句第51句](https://mp.weixin.qq.com/s/ilfQghbHsJlhnP29RH9mOA)
 *In an experiment published in 1988, social psychologist Fritz Strack of the University of Würzburg in Germany asked volunteers to hold a pen either with their teeth—thereby creating an artificial smile—or with their lips, which would produce a disappointed expression.*
-
-
+[长难句第52句](https://mp.weixin.qq.com/s/KQ0--sZKu863Rbqa31CHtw)
+*Those forced to exercise their smiling muscles reacted more enthusiastically to funny cartoons than did those whose mouths were contracted in a frown, suggesting that expressions may influence emotions rather than just the other way around.*
 
 
 

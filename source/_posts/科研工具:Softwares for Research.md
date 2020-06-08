@@ -37,3 +37,14 @@ categories: Specialty
 ## 文献阅读
 
 * 英文AI翻译[DeepL](https://www.deepl.com/home)([网页端使用](https://www.deepl.com/translator)，[客户端下载](https://www.deepl.com/app))
+
+
+## 论文书写
+
+* 截图转换数学公式[mathpix](https://mathpix.com)
+
+
+
+
+
+
