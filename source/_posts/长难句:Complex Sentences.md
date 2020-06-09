@@ -111,8 +111,8 @@ categories: English
 *In an experiment published in 1988, social psychologist Fritz Strack of the University of Würzburg in Germany asked volunteers to hold a pen either with their teeth—thereby creating an artificial smile—or with their lips, which would produce a disappointed expression.*
 [长难句第52句](https://mp.weixin.qq.com/s/KQ0--sZKu863Rbqa31CHtw)
 *Those forced to exercise their smiling muscles reacted more enthusiastically to funny cartoons than did those whose mouths were contracted in a frown, suggesting that expressions may influence emotions rather than just the other way around.*
-
-
+[长难句第53句](https://mp.weixin.qq.com/s/11qSgvtZ4I8vxjAdizKDzw)
+*The decision of the New York Philharmonic to hire Alan Gilbert as its next music director has been the talk of the classical-music world ever since the sudden announcement of his appointment in 2009.*
 
 
 
