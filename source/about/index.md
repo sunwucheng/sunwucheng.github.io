@@ -13,6 +13,4 @@
 | 战网/Battle.net  | `MYTH#52982` |  |
 | Bilibili        | `孙二瓢`         | [主页](https://space.bilibili.com/11130163) |
 
-<img src="/about-1.gif" width = "33%" height = "33%" div align=left />
-<img src="/about-2.gif" width = "33%" height = "33%" div align=left />
-<img src="/about-3.gif" width = "33%" height = "33%" div align=left />
+![](about-pikaqiu.gif)
