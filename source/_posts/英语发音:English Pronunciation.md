@@ -5,10 +5,10 @@ tags:
 categories: English
 ---
 
-# **来源: [纯正英音15堂必修课](https://www.kaochong.com/assemble/act.html?assembleActivityId=1012&assembleOrderId=ee2381aeedec4b2ab36d07890c8084ff&c=app_webview_shareweixinfriends&from=singlemessage&isappinstalled=0)**
+**来源: [纯正英音15堂必修课](https://www.kaochong.com/assemble/act.html?assembleActivityId=1012&assembleOrderId=ee2381aeedec4b2ab36d07890c8084ff&c=app_webview_shareweixinfriends&from=singlemessage&isappinstalled=0)**
 
 
-## 0. 音标总结
+# 0. 音标总结
 
 ***RP (received pronunciation)***
 
@@ -55,9 +55,9 @@ categories: English
 	- 半元音: 也是一半的辅音，介于元音和辅音之间，功能类似辅音
 
 
-## 1. 元音音标——单元音
+# 1. 元音音标——单元音
 
-### 英音发音方法
+## 英音发音方法
 
 |      |      |      |
 | :--: | :--- | :--: |
@@ -79,7 +79,7 @@ categories: English
 | *`[u:]`* | 长元音；小圆唇；轻轻噘嘴，不要太用力 | *room, do, blue, movie, true* |
 | *`[u]`*  | 短元音；小圆唇；嘴唇稍微翘起 | *good, could, put, cook* |
 
-###  英音发音技巧
+##  英音发音技巧
 
 He said `/e/` he is very `/æ/` sad because no one is on his side `/aɪ/`.
 
@@ -108,9 +108,9 @@ He said `/e/` he is very `/æ/` sad because no one is on his side `/aɪ/`.
 ```
 
 
-## 2. 元音音标——双元音
+# 2. 元音音标——双元音
 
-### 英音发音方法
+## 英音发音方法
 
 |      |      |      |
 | :--: | :--- | :--: |
@@ -123,14 +123,14 @@ He said `/e/` he is very `/æ/` sad because no one is on his side `/aɪ/`.
 | *`[eə]`*  |                 | *air, fair, hair* |
 | *`[uə]`*  | 现在的*`[uə]`*的英音发音倾向于读*`[ɔ:]`* | *tour, poor, sure* |
 
-### 英音发音技巧
+## 英音发音技巧
 
 什么时候`[əu]`发音更短一点: (1)在`[əu]`后面有`[l]` (e.g., told, old)时; (2)一个单词中有好几个音节(元音)时
 
 
-## 3. 辅音音标——爆破音
+# 3. 辅音音标——爆破音
 
-### 英音发音方法
+## 英音发音方法
 
 |      |      |      |
 | :--: | :--- | :--: |
@@ -143,7 +143,7 @@ He said `/e/` he is very `/æ/` sad because no one is on his side `/aɪ/`.
 | *`[t]`* | 形成阻碍时的口型：舌尖抵上齿龈 | *ten，top，today* |
 | *`[d]`* | 形成阻碍时的口型：舌尖抵上齿龈 | *day，dog，done `/dʌn/`* |
 
-### 英音发音技巧
+## 英音发音技巧
 
 △爆破音后面不要加“额”！！！
 △失去爆破：前面是一个爆破音+后面是一个爆破音（或别的辅音）时，前面这个音几乎听不到，但是口型得做出来
@@ -171,9 +171,9 @@ University	/ˌjuːnɪˈvəːsəti/
 ```
 
 
-## 4. 辅音音标——摩擦音&破擦音
+# 4. 辅音音标——摩擦音&破擦音
 
-### 英音发音方法
+## 英音发音方法
 
 |      |      |      |
 | :--: | :--- | :--: |
@@ -200,7 +200,7 @@ University	/ˌjuːnɪˈvəːsəti/
 | *`[ts]`* | /t/的舌位，舌尖在上齿龈，迅速出气并发出/s/音，声带不振动 | *cats，waits，acts，bites，pizza* | 
 | *`[dz]`* | /d/的舌位，舌尖在上齿龈，迅速出气并发出/z/音，声带振动 | *cards，leads，beds* | 
 
-### 英音发音技巧
+## 英音发音技巧
 
 名词加s读音：清后清，浊后浊(包括元音)
 ```
@@ -226,9 +226,9 @@ hostile  adj.敌对的
 ```
 
 
-## 5. 辅音音标——鼻音+舌边音+半元音
+# 5. 辅音音标——鼻音+舌边音+半元音
 
-### 英音发音方法
+## 英音发音方法
 
 |      |      |      |
 | :--: | :--- | :--: |
@@ -242,7 +242,7 @@ hostile  adj.敌对的
 | *`[j]`* | 开始发音的时候软腭上升，双唇向两旁伸展呈扁平形状 <br> 舌前部向硬腭抬起至原因/i:/或/i/的高度 <br> 声带振动，然后迅速向后面的元音滑动 | *yes，unit，young，beautiful，million* |
 | *`[w]`* | 开始发音的时候软腭上升，双唇拢圆而且聚拢得很小 <br> 舌后部向软腭抬起至元音/u:/或/u/的高度 <br> 声带振动，然后迅速向后面的元音滑动 | *way，wish，swim，window，will* |
 
-### 英音发音技巧
+## 英音发音技巧
 
 `[j]`、`/u/`还是`/ju:/`：字幕u和ew在/d/、/n/、/t/等音之后，美音倾向于读`/u:/`，而英音倾向于读`/ju:/`
 ```

@@ -1,5 +1,5 @@
 ---
-title: 业余无线电通信/Amateur Radio
+title: 业余无线电/Amateur Radio
 date: 2020-06-01 14:27:01
 tags: 
 categories: CS&EE

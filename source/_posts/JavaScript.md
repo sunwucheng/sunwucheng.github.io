@@ -5,7 +5,7 @@ tags:
 categories: CS&EE
 ---
 
-# **来源: [JavaScript教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1022910821149312)**
+**来源: [JavaScript教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1022910821149312)**
 
 
 ## 简介

@@ -5,13 +5,13 @@ tags:
 categories: CS&EE
 ---
 
-# **来源: [Java教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)**
+**来源: [Java教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)**
 
-## 1. Java快速入门
+# 1. Java快速入门
 
-### 1.1 Java简介
+## 1.1 Java简介
 
-#### 1.1.1 基本名词
+### 1.1.1 基本名词
 
 |      |      |      |
 | :--: | :--: | :--: |
@@ -36,7 +36,7 @@ categories: CS&EE
 | RI  (Reference Implementation)     | RI只是一个“能跑”的正确的代码，它不追求速度 |
 | TCK (Technology Compatibility Kit) | 保证对开发者来说接口、功能都是相同的 |
 
-#### 1.1.2 配置Java
+### 1.1.2 配置Java
 
 * 下载并安装[JDK14](https://www.oracle.com/java/technologies/javase-jdk14-downloads.html)
 * 设置环境变量
@@ -52,7 +52,7 @@ categories: CS&EE
 	$ java -version
 	```
 
-#### 1.1.3 JDK
+### 1.1.3 JDK
 
 |      |      |
 | :--: | :--- | 
@@ -63,7 +63,7 @@ categories: CS&EE
 | jdb     | Java调试器，用于开发阶段的运行调试 |
 
 
-#### 1.1.4 第一个Java程序
+### 1.1.4 第一个Java程序
 
 ```
 public class Hello {
@@ -73,7 +73,7 @@ public class Hello {
 }
 ```
 
-#### 1.1.5 类
+### 1.1.5 类
 
 ```
 public class Hello {
@@ -86,7 +86,7 @@ public class Hello {
 * `Hello` 为类名(大小写敏感)
 * `{}` 中间是类的定义
 
-#### 1.1.6 方法: 可执行的代码块
+### 1.1.6 方法: 可执行的代码块
 
 ```
     public static void main(String[] args) {
@@ -103,13 +103,13 @@ public class Hello {
 * `args` 为方法的参数名
 * `{}` 为方法的代码(每一行用`;`结束)
 
-#### 1.1.7 规定
+### 1.1.7 规定
 
 * 执行: 某个类定义的`public static void main(String[] args)`是Java程序的固定入口方法
 * 缩进: Java源码的缩进不是必须的, 缩进一般是4个空格或者一个tab
 * 保存: 代码保存为文件时，文件名必须要和定义的类名完全保持一致(包括大小写)
 
-#### 1.1.8 运行
+### 1.1.8 运行
 
 * 运行: 先用javac把源代码文本文件XXX.java编译成字节码文件XXX.class, 再用java命令执行这个字节码文件
 
@@ -121,16 +121,16 @@ $ javac Hello.java
 $ java Hello
 ```
 
-#### 1.1.9 使用IDE
+### 1.1.9 使用IDE
 
 * Eclipse
 * INtelliJ Idea
 * NetBeans
 
 
-### 1.2 Java程序基础
+## 1.2 Java程序基础
 
-#### 1.2.1 Java程序基本结构
+### 1.2.1 Java程序基本结构
 
 ```
 /**
@@ -205,7 +205,7 @@ blablabla...
   - 多行注释: 以`/*`星号开头，以`*/`结束, 可以有多行
   - 特殊多行注释: 以`/**`开头, 以`*/`结束, 如果有多行, 每行通常以星号开头
 
-#### 1.2.2 变量和数据类型
+### 1.2.2 变量和数据类型
 
 * 基本类型的变量
 

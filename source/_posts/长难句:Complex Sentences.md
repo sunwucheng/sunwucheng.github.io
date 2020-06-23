@@ -5,7 +5,7 @@ tags:
 categories: English
 ---
 
-# **来源: 长难句 - 虫洞Vivian**
+**来源: 长难句 - 虫洞Vivian**
 
 [长难句第1句](https://mp.weixin.qq.com/s/V8Yy_XIL1bpcgCSNBo6LyQ)
 *The hightened alert followed an emergency meeting with flue experts in Geneva that convened after a sharp rise in cases in Australia, and rising numbers in Britain, Japan, Chile and elsewhere.*
