@@ -113,6 +113,40 @@ categories: English
 *Those forced to exercise their smiling muscles reacted more enthusiastically to funny cartoons than did those whose mouths were contracted in a frown, suggesting that expressions may influence emotions rather than just the other way around.*
 [长难句第53句](https://mp.weixin.qq.com/s/11qSgvtZ4I8vxjAdizKDzw)
 *The decision of the New York Philharmonic to hire Alan Gilbert as its next music director has been the talk of the classical-music world ever since the sudden announcement of his appointment in 2009.*
+[长难句第54句](https://mp.weixin.qq.com/s/f84T9ryAQTULwoBdf86_DQ)
+*McGee says leaving without a position lined up gave him time to reflect on what kind of company he wanted to run.*
+[长难句第55句](https://mp.weixin.qq.com/s/XElJBSu_QAThjTyzMg2Q4w)
+*Besides generating income, the presence of other marketers makes the site seem objective, gives companies opportunities to learn valuable information about the appeal of other companies’ marketing, and may help expand user traffic for all companies concerned.*
+[长难句第56句](https://mp.weixin.qq.com/s/cqdBQBw7-szi2ZlI5v7jyg)
+*The same dramatic technological changes that have provided marketers with more (and more diverse) communications choices have also increased the risk that passionate consumers will voice their opinions in quicker, more visible, and much more damaging ways.*
+[长难句第57句](https://mp.weixin.qq.com/s/4YzfkDvMLOYjq2vji-7gqQ)
+*Toyota Motor, for example, alleviated some of the damage from its recall crisis earlier this year with a relatively quick and well-orchestrated social-media response campaign, which included efforts to engage with consumers directly on sites such as Twitter and the social-news site Digg.*
+[长难句第58句](https://mp.weixin.qq.com/s/hvfE_W11zXW0xBsRLfvoAQ)
+*It's no surprise that Jennifer Senior's insightful, provocative magazine cover story, “I love My Children, I Hate My Life,” is arousing much chatter—nothing gets people talking like the suggestion that child rearing is anything less than a completely fulfilling, life-enriching experience.*
+[长难句第59句](https://mp.weixin.qq.com/s/1Z27zyrxQ8POFX4Vd5NqNw)
+*Unhappy parents rarely are provoked to wonder if they shouldn’t have had kids, but unhappy childless folks are bothered with the message that children are the single most important thing in the world: obviously their misery must be a direct result of the gaping baby-size holes in their lives.*
+[长难句第60句](https://mp.weixin.qq.com/s/YQqEJQNpsXdZcQCCfH4Yxg)
+*One reason why it is hard to design and teach such courses is that they cut across the insistence by top American universities that liberal-arts education and professional education should be kept separate, taught in different schools.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
