@@ -12,29 +12,6 @@ categories: THE MYTH
 - [BBC learning English - Pronunciation tips](http://www.bbc.co.uk/worldservice/learningenglish/grammar/pron/)
 - [Simon, ex-IELTS examiner](https://ielts-simon.com/)
 
-
-# CS&EE
-
-## C/C++
-
-**来源: [想做C语言/C++开发?这些才是你该学的东西！C语言/C++直通企业级开发的详细学习路线 - CodeSheep](https://www.bilibili.com/video/BV1G7411K7j2/)**
-**来源: [自学C/C++的书籍推荐（自学C/C++看书路线推荐）| 科普视频教程 - CodeSheep](https://www.bilibili.com/video/BV1ob411m76i/)**
-
-[编程语言]
-- C: 《C Primer Plus》, 《C和指针》, 《C专家编程》
-- C++: 《Essential C++》, 《C++ Primer 4th》, 《Effective C++》, 《More Effective C++》
-
-[基础四大件(必会)]
-- 数据结构与算法: 《大话数据结构》c/c++, 《算法第四版》java, 《剑指offer》找工作, leetcode 刷题
-- 计算机网络: 《tcp/ip详解》
-- 操作系统: 《深入理解计算机系统》CSAPP
-- 设计模式: 《大话设计模式》
-
-[应用与编程实践(偏代码)]
-- linux使用: 《鸟哥的Linux私房菜》较详细、《linux就该这么学》较简单
-- 编译和调试: GUN官方GCC和GDB文档、《debugging with gdb 》中文版、《跟我一起写makefile》陈皓
-- linux环境编程: 《unix环境高级编程》\*、《linux高性能服务器编程》、《posix多线程程序设计》关于多线程
-
 ## 图像处理/Image Processing
 
 **来源: [学习资源：图像处理从入门到精通 - Jackpop的文章 - 知乎](https://zhuanlan.zhihu.com/p/67343443)**
