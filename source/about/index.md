@@ -9,6 +9,3 @@
 | 电话号码/TEL     | `+86 185****9808` | (谨防垃圾信息/Beware of Spam)  |
 | 腾讯QQ           | `404617606`       |  |
 | 微信/WeChat      | `MYTHsunwucheng`  |  |
-| Steam           | `bladeandsoul5` | [资料页/profiles](https://steamcommunity.com/profiles/76561198135179801/) |
-| 战网/Battle.net  | `MYTH#52982` |  |
-| Bilibili        | `孙二瓢`         | [主页](https://space.bilibili.com/11130163) |
