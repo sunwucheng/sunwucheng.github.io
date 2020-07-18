@@ -12,7 +12,7 @@ categories: THE MYTH
 - [BBC learning English - Pronunciation tips](http://www.bbc.co.uk/worldservice/learningenglish/grammar/pron/)
 - [Simon, ex-IELTS examiner](https://ielts-simon.com/)
 
-## 图像处理/Image Processing
+# CS&EE
 
 **来源: [学习资源：图像处理从入门到精通 - Jackpop的文章 - 知乎](https://zhuanlan.zhihu.com/p/67343443)**
 
@@ -22,12 +22,6 @@ categories: THE MYTH
 - 《数字图像处理（第三版）》-- 冈萨雷斯
 - 《纹理图像分析》-- 马莉,范影乐
 - 《医学图像处理中的数学理论与方法》-- 孔德兴
-
-## 业余无线电通信/Amateur Radio
-
-[书籍]
-- 《业余无线电通信（第四版》
-- 《天线手册（第22版）》
 
 # Specialty
 

@@ -42,6 +42,28 @@ categories: Specialty
 
 * 截图转换数学公式[mathpix](https://mathpix.com)
 
+### 力学相关
+
+**来源: [求推荐几本好的力学及有限元书籍？ - 煤球儿的回答 - 知乎](https://www.zhihu.com/question/27691300/answer/152295918)**
+
+[数值计算方法]
+- FEM: 有限单元法
+- DEM: 离散元
+- FVM: 有限体积法
+- X-FEM: 扩展有限元
+- FDM: 有限差分法
+- LBM: 玻尔兹曼格子法
+- SPH: 光滑粒子流体动力学
+
+[有限元教材]
+- 朱伯芳《有限单元法原理与应用》★★★★★
+- Logan《A first course in finite elemnt method》(use ADINA software) ★★★★
+- Jacob《A first course in finite elemnt》 ★★★
+- Bathe《Finite Element Procedures》+ OpenCourse from Bathe ★★★★
+- Zienkiewicz《The Finite Element Method for Solid and Structural Mechanics》 ★★★★
+- Simo&Hughes 《Computational Inelasticity》 (Nonlinear) ★★★
+- Ted Belytschko 《Nonlinear Finite Elements for Continua and Structures》 (Nonlinear) ★★★
+
 
 
 
