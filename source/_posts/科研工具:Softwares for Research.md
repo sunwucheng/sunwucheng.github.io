@@ -22,7 +22,7 @@ categories: Specialty
 	+ [官方使用教程-视频](https://www.youtube.com/playlist?list=PLmiSknH78BpQqEqsBT5D7REAyvHkPM7JL)
 
 
-## 最新期刊论文推送
+## 期刊论文推送
 
 * 期刊阅读手机软件: ~~[Researcher](https://www.researcher-app.com/)( 信息密度太低，属实憨憨 )~~
 * RSS阅读器: ~~[Feeder.co](https://feeder.co)(国内访问歇菜)~~、[Feedbro](https://nodetics.com/feedbro/)(浏览器插件)、[2019 国内最好的 RSS 阅读器是什么？ - 知乎](https://www.zhihu.com/question/28808592)
