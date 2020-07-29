@@ -15,19 +15,24 @@ categories: Specialty
 | T1 | 3.068 | 3.302 | Ocean Engineering |
 |    |       |       |      |
 | T2 | 7.196 | 6.280 | Pattern Recognition |
+| T2 | 6.182 | 5.141 | Applied Surface Science |
 | T2 | 5.138 | 5.169 | Composite Structures |
 | T2 | 4.725 | 4.514 | Applied Thermal Engineering |
 | T2 | 4.669 | 4.799 | Journal of Materials Processing Technology |
-| T2 | 4.45  |       | Tunnelling and Underground Space Technology |
+| T2 | 4.650 | 4.082 | Journal of Alloys and Compounds |
+| T2 | 4.450 | 4.761 | Tunnelling and Underground Space Technology |
 | T2 | 4.271 | 4.191 | Tribology International |
 | T2 | 4.151 | 4.856 | **International Journal of Rock Mechanics and Mining Sciences** |
 | T2 | 3.841 | 4.090 | Journal of Natural Gas Science and Engineering |
+| T2 | 3.830 | 3.513 | Ceramics International |
 | T2 | 3.818 | 4.146 | Computers and Geotechnics |
 | T2 | 3.706 | 3.770 | Journal of Petroleum Science and Engineering |
 | T2 | 3.642 | 4.122 | International Journal of Impact Engineering |
 | T2 | 3.407 | 3.414 | International Journal of Refractory Metals and Hard Materials |
 | T2 | 2.991 | 3.339 | Computers & Geosciences |
-| T2 | 2.814 |       | International Journal for Numerical and Analytical Methods in Geomechanics |
+| T2 | 2.814 | 2.957 | International Journal for Numerical and Analytical Methods in Geomechanics |
 |    |       |       |      |
+| T3 | 4.142 | 3.849 | Powder Technology |
 | T3 | 4.108 | 4.169 | Wear |
+| T3 | 2.650 | 2.699 | Diamond and Related Materials |
 | T3 | 2.566 | 2.576 | Tribology Letters |
